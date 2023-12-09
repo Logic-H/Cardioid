@@ -17,10 +17,3 @@ This is our first grade mid-term exam project<br> which uses connected lines to 
 ![image](assets/exam1 2023_11_7 13_01_55 (1).png)
 ![image](assets/exam1-v1.2 2023_11_8 8_43_11.png)
 ![image](assets/exam1-v1.2 2023_11_8 8_46_52.png)
-
-
-
-
-
-
-
