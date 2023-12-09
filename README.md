@@ -3,6 +3,9 @@ A program to generate Cardioid, Nephroid and Other Epicycloids by using Easyx (a
 
 it was made by **Equation.** , a PBL group in *Hohai University*<br>
 
-This is our first grade mid-term exam project , which uses connected lines to creat beautiful art shapes,it will generate all epicycloids shape during its process,<br>
+This is our first grade mid-term exam project<br> which uses connected lines to creat beautiful art shapes<br>it will generate all epicycloids shape during its process,<br>
 
+
+
+<br><br>
 # Hope you enjoy it!
